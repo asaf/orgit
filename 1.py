@@ -1,3 +1,3 @@
 foo() {
-	print("hello")
+	print("hello world")
 }
